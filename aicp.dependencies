@@ -1,0 +1,15 @@
+[
+  {
+    "repository": "AICP/kernel_motorola_msm8998",
+    "target_path": "kernel/motorola/msm8998"
+  },
+  {
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "branch":      "lineage-20.0"
+  },
+  {
+    "repository": "AICP/hardware_motorola",
+    "target_path": "hardware/motorola"
+  }
+]
