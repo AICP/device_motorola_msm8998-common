@@ -6,7 +6,7 @@
   {
     "repository": "LineageOS/android_external_bson",
     "target_path": "external/bson",
-    "branch":      "lineage-20.0"
+    "branch":      "lineage-20"
   },
   {
     "repository": "AICP/hardware_motorola",
